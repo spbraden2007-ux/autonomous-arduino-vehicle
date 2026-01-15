@@ -7,8 +7,8 @@
 ## Demo
 
 [![Demo Video](https://img.shields.io/badge/▶_Watch_Demo-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1uKarYfRPUSvqBH1gG7XaHbdlwjgqWeYI/view)
-[![Demo Video](https://img.shields.io/badge/▶_Watch_Demo-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1fb5O3GCMhDKX_a49j4kzPB81KhXHyAGl/view?t=2) 
-[![Demo Video](https://img.shields.io/badge/▶_Watch_Demo-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1s98X8F5Gak0GjhBeS7kO9mXCLfXCBJgz/view?t=7)
+[![Demo Video](https://img.shields.io/badge/▶_Watch_Demo-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1fb5O3GCMhDKX_a49j4kzPB81KhXHyAGl/view) 
+[![Demo Video](https://img.shields.io/badge/▶_Watch_Demo-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1s98X8F5Gak0GjhBeS7kO9mXCLfXCBJgz/view)
 
 ## Key Results
 
