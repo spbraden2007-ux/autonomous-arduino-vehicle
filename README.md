@@ -102,7 +102,7 @@ autonomous-arduino-vehicle/
 ├── main.ino              # Complete Arduino source (~600 lines)
 ├── hardware/
 │   ├── schematic_breadbord.png
-    └── schematic_circuit.png
+│   └── schematic_circuit.png
 │ 
 └── docs/
     └── experiment_results.md
