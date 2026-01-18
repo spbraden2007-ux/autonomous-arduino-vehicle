@@ -214,3 +214,14 @@ See [full experiment results](docs/experiment_results.md) for detailed analysis.
 ---
 
 **STEM Fair 2023 · Robotics Division · 1st Place**
+
+---
+
+## 👤 Author
+
+**Seohyun Park**  
+University of Waterloo, Computer Science  
+Korea Presidential Science Scholarship Recipient
+
+[![GitHub](https://img.shields.io/badge/GitHub-seohyunpark-181717?style=flat&logo=github)](https://github.com/spbraden2007-ux)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-seohyunpark-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/sp-park)
